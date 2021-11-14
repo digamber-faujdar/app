@@ -1,0 +1,37 @@
+
+.card {
+    background-color: rgba(240,240,240,0.3);
+   
+     max-width: 300px;
+     margin: 55px;
+     text-align: center;
+     font-family: arial;
+   }
+   
+   .price {
+     color: #FC766AFF;
+     font-size: 22px;
+   }
+   
+   .card button {
+     border: none;
+     outline: 0;
+     padding: 12px;
+     color: white;
+     background-color: #094B99;
+     text-align: center;
+     cursor: pointer;
+     width: 100%;
+     font-size: 18px;
+   }
+   
+   .card button:hover {
+     opacity: 0.7;
+   }
+   .row {margin: 0 -5px;}
+   .column {
+     float: left;
+     width: 25%;
+     padding: 0 55px;
+   }
+   

@@ -1,0 +1,23 @@
+body {
+    background-image:url('w.jpg');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+form {padding-top: 90px;
+  text-align: center;
+  font-family: arial;
+  color: white;
+  font-size: 35px;}
+  input {
+  width: 250px;
+  height: 40px;
+  font-size: 30px;
+   }
+#ft{
+  width: 250px;
+  height: 40px;
+  font-size: 30px;
+}
